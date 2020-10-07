@@ -1,0 +1,32 @@
+h1 {
+  padding: 25px 50px 50px 100px;
+}
+h2 {
+  padding: 10px 40px 15px 15px;
+}
+h5 {
+  padding: 10px 40px 15px 15px;
+  text-align:center;
+}
+p {
+  padding: 5px 15px 5px 15px;
+}
+
+.main{
+  padding: 0px 15px 0px 15px;
+}
+.content{
+  padding: 0px 15px 0px 15px;
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
