@@ -69,7 +69,7 @@ What I've learnt: working with arrays and diffaining structures.
 
 ## Problem set 4
 
-#### Filter, full [description](https://cs50.harvard.edu/x/2020/psets/4/filter/), [solution](pset4/filter)
+#### Filter, full [description](https://cs50.harvard.edu/x/2020/psets/4/filter/more/), [solution](pset4/filter)
 
 Brief description: implement a program that applies filters to BMPs. 
 
