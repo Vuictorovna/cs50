@@ -2,8 +2,11 @@
 My solutions for Harvard's [cs50](https://cs50.harvard.edu/x/2020/) course 2019 - 2020
 
 Solutions for problem sets from 1 to 5 are implemented in C.
+
 Solutions for problem set 6 are reimplementing everything in Python.
+
 Solutions for problem set 7 are SQL-queries.
+
 Solutions for problem set 8 are web-projects based on Python, Flask, HTML, CSS and SQLite.
 
 
