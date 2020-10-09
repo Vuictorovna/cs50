@@ -20,13 +20,13 @@ What I've learnt: how to use loops and print in C.
 
 #### Cash, full [description](https://cs50.harvard.edu/x/2020/psets/1/cash/), [solution](pset1/cash.c)
 
-Brief description: help vendor to give a change with as small amount of coins as possible using greedy algorithms.
+Brief description: implement a program that calculates the minimum number of coins required to give a change.
 
 What I've learnt: branching and math operations (modulo, floating point functions, division).
 
 #### Credit, full [description](https://cs50.harvard.edu/x/2020/psets/1/credit/), [solution](pset1/credit.c)
 
-Brief description: validate credit card number using Luhn's algorithm and check what company issued this card. 
+Brief description: implement a program that determines whether a provided credit card number is valid according to Luhn’s algorithm.
 
 What I've learnt: branching and math operations.
 
@@ -93,5 +93,45 @@ What I've learnt:
 
 ## Problem set 6
 
+#### Mario, Cash, Credit, Readability, full [description](https://cs50.harvard.edu/x/2020/psets/6/), [solution](pset6)
 
+Brief description: implementation of the same programs as in problem sets 1 - 2 this time in Python. 
+
+What I've learnt: 
+
+#### DNA, full [description](https://cs50.harvard.edu/x/2020/psets/6/dna/), [solution](pset6/dna.py)
+
+Brief description: Implement a program that identifies a person based on their DNA. 
+
+What I've learnt: 
+
+
+## Problem set 7
+
+#### Movies, full [description](https://cs50.harvard.edu/x/2020/psets/7/movies/), [solution](pset7/movies)
+
+Brief description: write SQL queries to answer questions about a database of movies. 
+
+What I've learnt: 
+
+#### Houses, full [description](https://cs50.harvard.edu/x/2020/psets/7/houses/), [solution](pset7/houses)
+
+Brief description: implement a program to import student data into a database, and then produce class rosters. 
+
+What I've learnt: 
+
+
+## Problem set 8
+
+#### Homepage, full [description](https://cs50.harvard.edu/x/2020/tracks/web/homepage/), [solution](pset8/homepage)
+
+Brief description: Build a simple homepage using HTML, CSS, and JavaScript. 
+
+What I've learnt: 
+
+#### C$50 Finance, full [description](https://cs50.harvard.edu/x/2020/tracks/web/finance/), [solution](pset8/finance)
+
+Brief description: implement a website via which users can “buy” and “sell” stocks. 
+
+What I've learnt: 
 
